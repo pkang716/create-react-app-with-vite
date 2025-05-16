@@ -1,0 +1,8 @@
+.app {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+  background: linear-gradient(135deg, #f0f0f0, #d0e0ff);
+  border-radius: 1rem;
+  box-shadow: 0 0 1rem rgba(0,0,0,0.1);
+}
